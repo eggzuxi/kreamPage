@@ -1,1 +1,4 @@
-## Kream Clone Page : [GO](https://eggzuxi.github.io/kreamPage/index.html)
+<body>
+  <h3>Kream Clone Page</h3>
+  <a href="https://eggzuxi.github.io/kreamPage/index.html">GO</a>
+</body>
